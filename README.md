@@ -1,4 +1,4 @@
-FPGA-Based SA-TCN Spectrum Sensing Framework for Cognitive Radio Networks
+**FPGA-Based SA-TCN Spectrum Sensing Framework for Cognitive Radio Networks**
 
 An FPGA-based intelligent spectrum sensing framework for detecting occupied and free channels in the FM band using a Self-Attention Temporal Convolutional Network (SA-TCN), RTL-SDR, and the Digilent Cmod A7-35T FPGA.
 
